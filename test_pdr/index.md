@@ -1,5 +1,8 @@
 ---
 layout: default
+markdown: kramdown
+kramdown:
+  parse_block_html: true
 ---
 <img src="https://cgdv.github.io/assets/img/sunrise.jpg" alt=""/>
 
