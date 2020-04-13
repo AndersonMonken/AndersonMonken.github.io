@@ -23,6 +23,23 @@ Participate in the <a href="https://cgdv.github.io/challenges/COVID-19/" target=
 Contribute to the Pandemic Data Room by submitting a new data source request in this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdn74SkcHp3lJ6rv2QTU1VmeliwUe_d6G8H_dFvVf_J_LEeMQ/viewform). We will evaluate your data source and get back to you soon!
 
 
+<details>
+<summary>
+<a href="https://www.kaggle.com/danevans/world-bank-wdi-212-health-systems">WDI Health Systems</a>: Data on the state of each countries healthcare system.</summary>
+<p>
+<ul>
+
+<li> Detailed Description: The stated purpose for this data is "Does health spending levels (public or private), or hospital staff have any effect on the rate at which Covid-19 spreads in a country? Can we use this data to predict the rate at which Cases or Fatalities will grow?". It is only data on healthcare expenditures and the amount of healthcare available in countries throughout the world. There is not any direct COVID-19 data, but this could make good supplementary data for a question similar to one they posed as inspiration</li>
+<li> Data Resolution: Global</li>
+<li> Frequency of update: Every 2-3 Days </li>
+<li> Download Method: Download </li>
+<ul>
+  <li> File type: CSV </li></ul>
+<li> Cleaning requirements: Minimal </li>
+<li> Link: <a href=https://www.kaggle.com/danevans/world-bank-wdi-212-health-systems>https://www.kaggle.com/danevans/world-bank-wdi-212-health-systems</a></li>
+</p>
+</details>
+
 ## Data sources provided by partners  
 <details>
 <summary>
