@@ -8,14 +8,15 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <!-- End Google Tag Manager -->
   
 <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-163684769-1"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-163600698-1"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'UA-163684769-1');
+  gtag('config', 'UA-163600698-1');
 </script>
+
 
 </head>
 
@@ -32,13 +33,14 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W964J2X"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
+</body>
 
-# Pandemic Data Room
-## A Resource Provided by The Center for Global Data Visualization
+<h1> Pandemic Data Room </h1>
+<h2> A Resource Provided by The Center for Global Data Visualization </h2>
 
 The Pandemic Data Room is a comprehensive global COVID-19 data repository created by a consortium of partners and led by QED Group to improve understanding of the impact of physical distancing policies on social behavior, disease rates, hospital utilization, and local/national economies. This initiative will generate critical information needed to adjust policies to control the outbreak. We hope to bring amazing talent to work on the data and generate new tools that can be used to manage and understand this pandemic.
 
-### Contribute Research Questions and Analysis Ideas to the Pandemic Data Room
+<h3> Contribute Research Questions and Analysis Ideas to the Pandemic Data Room </h3>
 In order that the Pandemic Data Room best reflects questions being asked among the global health and international development communities, we have created a portal where people can pose questions on COVID-19 they are looking to get answered. This question portal will be available to Data Challenge  participants and they can use it to generate ideas in creating compelling visualization and analysis tools. Please visit the portal [here](https://docs.google.com/document/d/1Q-OpRV6bvZuePvF1E_DSwTr121zPoIZExkiozWw1-24/edit).  
 
 
@@ -49,7 +51,7 @@ Contribute to the Pandemic Data Room by submitting a new data source request in 
 
 Click ▶ to see data source details.
 
-## Data sources provided by partners  
+<h2> Data sources provided by partners  </h2>
 
 <details>
 <summary>
@@ -370,7 +372,7 @@ Our World in Data is to provide testing data over time for many countries around
 </p>
 </details>
 
-## Government Response Data
+<h2> Government Response Data </h2>
 
 <details>
 <summary>
@@ -408,7 +410,7 @@ Our World in Data is to provide testing data over time for many countries around
 </p>
 </details>
 
-## Healthcare Resource Data
+<h2> Healthcare Resource Data </h2>
 
 <details>
 <summary>
@@ -503,7 +505,7 @@ Our World in Data is to provide testing data over time for many countries around
 </details>
 
 
-## Social Data
+<h2> Social Data </h2>
 
 <details>
 <summary>
@@ -780,7 +782,7 @@ Each signal may reflect the prevalence of COVID-19 infection, mild symptoms, or 
 </details>
 
 
-## Academic Data
+<h2> Academic Data </h2>
 
 
 <details>
@@ -840,14 +842,14 @@ Each signal may reflect the prevalence of COVID-19 infection, mild symptoms, or 
 
 
 
-## COVID-19 Interactive Dashboard
+<h2> COVID-19 Interactive Dashboard </h2>
 * [Johns Hopkins CSSE: Interactive web-based dashboard tracking reported cases](https://coronavirus.jhu.edu/map.html)
 * [Live World Health Organization Dashboard](https://who.sprinklr.com/)
 * [Tableau Coronavirus Daily Global Tracker](https://www.tableau.com/covid-19-coronavirus-data-resources)
 * [U.S. Health Weather Map](https://healthweather.us/?mode=Atypical)
 
 
-## COVID-19 Background Information
+<h2> COVID-19 Background Information </h2>
 * [CDC](https://www.cdc.gov/coronavirus/2019-ncov/index.html)
 * [China CDC](http://weekly.chinacdc.cn/news/TrackingtheEpidemic.htm)
 * [European CDC](https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide)
@@ -857,7 +859,7 @@ Each signal may reflect the prevalence of COVID-19 infection, mild symptoms, or 
 
   
     
-## Experts' Thoughts on Dealing with COVID-19 Data
+<h2> Experts' Thoughts on Dealing with COVID-19 Data </h2>
 We encourage you to recognize both the limitations of the data and your ability to draw conclusions from this data. The importance of this COVID-19 means that any visuals created may be displayed in other contexts, and we ask you not to overreach in any conclusions you attempt to draw. See below for a list of articles around this topic.  
  * [You are (almost definitely) not qualified to make predictions about COVID-19. We’re here to help explain why](
 https://www.tableau.com/about/blog/2020/4/you-are-almost-definitely-not-qualified-make-predictions-about-covid-19
@@ -870,6 +872,3 @@ https://www.tableau.com/about/blog/2020/4/you-are-almost-definitely-not-qualifie
 * [A conversation with an Epidemiologist: 5 things to keep in mind when you look at the numbers on COVID-19](https://www.tableau.com/about/blog/2020/4/conversation-epidemiologist-5-things-keep-mind-when-you-look-numbers-covid-19?utm_campaign=Awareness-CORE-ALL-ALL-ALL-ALL&utm_medium=Social&utm_source=Twitter&utm_campaign_id=2020207), by Amanda Makulec
 
  
- 
-</body>
-
