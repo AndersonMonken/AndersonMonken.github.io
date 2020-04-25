@@ -28,12 +28,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 
  </style>
-<body>
+
 <!-- Google Tag Manager (noscript) -->
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W964J2X"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
-</body>
 
 <h1> Pandemic Data Room </h1>
 <h2> A Resource Provided by The Center for Global Data Visualization </h2>
@@ -843,6 +842,7 @@ Each signal may reflect the prevalence of COVID-19 infection, mild symptoms, or 
 
 
 <h2> COVID-19 Interactive Dashboard </h2>
+
 * [Johns Hopkins CSSE: Interactive web-based dashboard tracking reported cases](https://coronavirus.jhu.edu/map.html)
 * [Live World Health Organization Dashboard](https://who.sprinklr.com/)
 * [Tableau Coronavirus Daily Global Tracker](https://www.tableau.com/covid-19-coronavirus-data-resources)
@@ -850,6 +850,7 @@ Each signal may reflect the prevalence of COVID-19 infection, mild symptoms, or 
 
 
 <h2> COVID-19 Background Information </h2>
+
 * [CDC](https://www.cdc.gov/coronavirus/2019-ncov/index.html)
 * [China CDC](http://weekly.chinacdc.cn/news/TrackingtheEpidemic.htm)
 * [European CDC](https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide)
@@ -861,7 +862,8 @@ Each signal may reflect the prevalence of COVID-19 infection, mild symptoms, or 
     
 <h2> Experts' Thoughts on Dealing with COVID-19 Data </h2>
 We encourage you to recognize both the limitations of the data and your ability to draw conclusions from this data. The importance of this COVID-19 means that any visuals created may be displayed in other contexts, and we ask you not to overreach in any conclusions you attempt to draw. See below for a list of articles around this topic.  
- * [You are (almost definitely) not qualified to make predictions about COVID-19. We’re here to help explain why](
+
+* [You are (almost definitely) not qualified to make predictions about COVID-19. We’re here to help explain why](
 https://www.tableau.com/about/blog/2020/4/you-are-almost-definitely-not-qualified-make-predictions-about-covid-19
 ), by Andy Cotgreave
 * [Visualizing coronavirus data? Consider adding a disclaimer](https://www.tableau.com/about/blog/2020/4/visualizing-coronavirus-data-consider-adding-disclaimer), by Amanda Makulec  
