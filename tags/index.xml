@@ -7,10 +7,55 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
-    <lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 19 May 2021 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://andersonmonken.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Graph Neural Networks</title>
+      <link>https://andersonmonken.github.io/tags/graph-neural-networks/</link>
+      <pubDate>Wed, 19 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://andersonmonken.github.io/tags/graph-neural-networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>International Trade</title>
+      <link>https://andersonmonken.github.io/tags/international-trade/</link>
+      <pubDate>Wed, 19 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://andersonmonken.github.io/tags/international-trade/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling</title>
+      <link>https://andersonmonken.github.io/tags/modeling/</link>
+      <pubDate>Wed, 19 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://andersonmonken.github.io/tags/modeling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Association Rules</title>
+      <link>https://andersonmonken.github.io/tags/association-rules/</link>
+      <pubDate>Tue, 19 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://andersonmonken.github.io/tags/association-rules/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ensemble Machine Learning</title>
+      <link>https://andersonmonken.github.io/tags/ensemble-machine-learning/</link>
+      <pubDate>Tue, 19 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://andersonmonken.github.io/tags/ensemble-machine-learning/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>plot</title>
@@ -36,15 +81,6 @@
       <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
       
       <guid>https://andersonmonken.github.io/tags/regression/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Source Themes</title>
-      <link>https://andersonmonken.github.io/tags/source-themes/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://andersonmonken.github.io/tags/source-themes/</guid>
       <description></description>
     </item>
     
