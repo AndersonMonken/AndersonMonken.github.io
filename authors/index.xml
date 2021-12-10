@@ -7,10 +7,46 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
-    <lastBuildDate>Fri, 15 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Dec 2021 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://www.andersonmonken.com/authors/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Anderson Monken</title>
+      <link>https://www.andersonmonken.com/authors/anderson-monken/</link>
+      <pubDate>Fri, 03 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.andersonmonken.com/authors/anderson-monken/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eva Van Leemput</title>
+      <link>https://www.andersonmonken.com/authors/eva-van-leemput/</link>
+      <pubDate>Fri, 03 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.andersonmonken.com/authors/eva-van-leemput/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flora Haberkorn</title>
+      <link>https://www.andersonmonken.com/authors/flora-haberkorn/</link>
+      <pubDate>Fri, 03 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.andersonmonken.com/authors/flora-haberkorn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Henry L. Young</title>
+      <link>https://www.andersonmonken.com/authors/henry-l.-young/</link>
+      <pubDate>Fri, 03 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.andersonmonken.com/authors/henry-l.-young/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Aaron Flaaen</title>
@@ -18,24 +54,6 @@
       <pubDate>Fri, 15 Oct 2021 00:00:00 +0000</pubDate>
       
       <guid>https://www.andersonmonken.com/authors/aaron-flaaen/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Anderson Monken</title>
-      <link>https://www.andersonmonken.com/authors/anderson-monken/</link>
-      <pubDate>Fri, 15 Oct 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.andersonmonken.com/authors/anderson-monken/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Flora Haberkorn</title>
-      <link>https://www.andersonmonken.com/authors/flora-haberkorn/</link>
-      <pubDate>Fri, 15 Oct 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.andersonmonken.com/authors/flora-haberkorn/</guid>
       <description></description>
     </item>
     

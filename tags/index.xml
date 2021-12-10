@@ -7,7 +7,7 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
-    <lastBuildDate>Fri, 15 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Dec 2021 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://www.andersonmonken.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Big data</title>
       <link>https://www.andersonmonken.com/tags/big-data/</link>
-      <pubDate>Fri, 15 Oct 2021 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 03 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://www.andersonmonken.com/tags/big-data/</guid>
       <description></description>
@@ -24,7 +24,7 @@
     <item>
       <title>COVID-19</title>
       <link>https://www.andersonmonken.com/tags/covid-19/</link>
-      <pubDate>Fri, 15 Oct 2021 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 03 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://www.andersonmonken.com/tags/covid-19/</guid>
       <description></description>
@@ -33,9 +33,18 @@
     <item>
       <title>International Trade</title>
       <link>https://www.andersonmonken.com/tags/international-trade/</link>
-      <pubDate>Fri, 15 Oct 2021 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 03 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://www.andersonmonken.com/tags/international-trade/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Textual Analytics</title>
+      <link>https://www.andersonmonken.com/tags/textual-analytics/</link>
+      <pubDate>Fri, 03 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.andersonmonken.com/tags/textual-analytics/</guid>
       <description></description>
     </item>
     
